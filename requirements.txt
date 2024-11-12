@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+datetime
+plotly
+statsmodels
+scikit-learn
+plotnine
+scipy
+xgboost
+ipykernel
+imblearn
+nbformat
+graphviz
+hyperopt
+umap
