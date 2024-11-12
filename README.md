@@ -24,6 +24,7 @@ pandas
 numpy
 matplotlib
 seaborn
+pathlib
 datetime
 plotly
 statsmodels
