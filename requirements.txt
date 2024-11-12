@@ -14,4 +14,4 @@ imblearn
 nbformat
 graphviz
 hyperopt
-umap
+umap-learn
