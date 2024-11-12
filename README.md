@@ -1,6 +1,7 @@
 # *UnsuperVised Insurance Analysis Using Python Language*
 
-👩‍💻 I'm currently working on...
+## *Author  [Omar Soub](https://github.com/omars1234)*
+
 
 ## *Overview*
 
@@ -37,3 +38,14 @@ graphviz
 umap-learn
 ```
 
+
+## *Feedback*
+
+*If you have any feedback, please reach out to us at omars.soub@gmail.com*
+
+## 🔗 Links
+
+[*my github page-https://github.com/omars1234*](https://github.com/omars1234)
+
+## *🛠 Skills*
+*python, R, SQL ,PowerBi ,Tableaue*
